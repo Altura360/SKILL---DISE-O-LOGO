@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="t">
+  <title id="t">KontrolPagos - B K y moneda</title>
+    <path fill="#111111" d="M15.89 28 L65.89 28 L65.89 228 L15.89 228 Z"/>
+    <path fill="#111111" d="M77.89 128 L177.89 28 L240.11 28 L140.11 128 L240.11 228 L177.89 228 Z"/>
+    <path fill="#111111" d="M166.2 128 A34 34 0 1 0 234.2 128 A34 34 0 1 0 166.2 128 Z"/>
+</svg>
