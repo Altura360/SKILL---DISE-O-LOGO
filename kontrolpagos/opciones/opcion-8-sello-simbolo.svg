@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="t">
+  <title id="t">Moneda con K adentro</title>
+  <g id="symbol">
+    <path fill="#F29D00" d="M8 128 A120 120 0 1 0 248 128 A120 120 0 1 0 8 128 Z"/>
+    <path fill="#FFCE3A" d="M29.6 128 A98.4 98.4 0 1 0 226.4 128 A98.4 98.4 0 1 0 29.6 128 Z"/>
+    <path fill="#1F2A33" d="M71.94 78 L96.94 78 L96.94 178 L71.94 178 Z"/>
+    <path fill="#1F2A33" d="M102.94 128 L152.94 78 L184.06 78 L134.06 128 L184.06 178 L152.94 178 Z"/>
+  </g>
+</svg>

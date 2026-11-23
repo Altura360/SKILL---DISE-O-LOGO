@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="t">
+  <title id="t">K que abraza la moneda</title>
+  <g id="symbol">
+    <path fill="#1F2A33" d="M5.41 28 L55.41 28 L55.41 228 L5.41 228 Z"/>
+    <path fill="#1F2A33" d="M67.41 128 L167.41 28 L229.64 28 L129.64 128 L229.64 228 L167.41 228 Z"/>
+    <path fill="#F29D00" d="M158.59 128 A46 46 0 1 0 250.59 128 A46 46 0 1 0 158.59 128 Z"/>
+    <path fill="#FFCE3A" d="M173.31 128 A31.28 31.28 0 1 0 235.87 128 A31.28 31.28 0 1 0 173.31 128 Z"/>
+  </g>
+</svg>
