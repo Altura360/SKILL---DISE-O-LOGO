@@ -1,0 +1,28 @@
+/* KontrolPagos - colores y tipografía oficiales.
+   Copia la carpeta fonts/ junto a este archivo (../fonts/) o ajusta las rutas. */
+@font-face{font-family:'Sora';src:url('../fonts/Sora-Variable.ttf') format('truetype');font-weight:100 800;font-display:swap}
+@font-face{font-family:'DM Sans';src:url('../fonts/DMSans-Variable.ttf') format('truetype');font-weight:100 1000;font-display:swap}
+
+:root{
+  /* Marca */
+  --kp-marino:#14263F;      /* K, nombre, textos, menú oscuro */
+  --kp-amarillo:#FFB800;    /* moneda, botones de acción, resaltados */
+  --kp-amarillo-borde:#F29D00;
+  --kp-amarillo-claro:#FFCE3A;
+  /* Neutros */
+  --kp-acero:#5B6B78;       /* textos secundarios, íconos */
+  --kp-niebla:#F2F5F9;      /* fondo de pantallas */
+  --kp-blanco:#FFFFFF;
+  /* Estados */
+  --kp-pagado:#16794C;
+  --kp-por-pagar:#2F6FB5;
+  --kp-vencido:#C8382F;
+  /* Tipografía */
+  --kp-font-titulos:'Sora','DM Sans',system-ui,sans-serif;
+  --kp-font-texto:'DM Sans',system-ui,sans-serif;
+}
+body{font-family:var(--kp-font-texto);color:var(--kp-marino);background:var(--kp-niebla)}
+h1,h2,h3{font-family:var(--kp-font-titulos);font-weight:700;letter-spacing:-.01em}
+.importe,td.num{font-variant-numeric:tabular-nums}
+/* Botón principal: amarillo con texto marino (contraste alto) */
+.btn-primario{background:var(--kp-amarillo);color:var(--kp-marino);font-weight:700;border:0;border-radius:8px;padding:10px 16px}
